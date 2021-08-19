@@ -1,5 +1,9 @@
 # Yuan Independent Study Summer 2021
 
+This is a report repository to record the procedure in my summer independent research, giving some information about the project I'm developing on as well. Below are the original contents of the report, and the guidance is filled up by my instructor.
+
+--------
+
 The work will explore adapting Visual Studio Code and the Haskell Language Server to understand how learners use type error messages.
 
 # Expectations
